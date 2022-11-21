@@ -1,0 +1,181 @@
+
+.box {
+    width: 100vw;
+    height: 80vh;
+    margin-bottom: 10px;
+}
+
+
+.box1 {
+    background-image: url(https://www.biletik.aero/upload/medialibrary/b25/b25502ec6b267e4a353c67fea7db0685.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.link {
+    margin: 20px;
+    background-color: lightblue;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid red;
+
+}
+
+.box3 {
+    text-align: center;
+    background-color: lightblue;
+}
+.box4 {
+    color: red;
+    font-weight: 50px;
+    font-size: 50px;
+}
+
+.box5 {
+    width: 350px;
+    height: 350px;
+    background-image: url(https://www.gazeta.uz/media/img/2019/07/ydi6X615644071368202_b.jpg) ;
+    background-size: cover;
+    border: 3px solid lightcoral;
+    position: center;
+}
+
+.box7 {
+    background-color: lightcoral;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid lightcoral;
+}
+
+.box7:hover {
+    background-color: lightblue;
+    color: black;
+    background-position: right;
+}
+
+.box8 {
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+.box8:active {
+    background-color: lightblue;
+    color: black;
+    border:1px solid lightblue
+   
+}
+
+
+.box9 {
+    width: 350px;
+    height: 350px;
+    background-image: url(https://static.review.uz/crop/2/3/825__95_2358676587.jpg?v=1637596908);
+    background-size: cover;
+    border: 3px solid green;
+    margin-top: 10px;
+}
+
+
+.box11 {
+    background-color: lightcoral;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid lightcoral;
+}
+
+.box11:hover {
+    background-color: lightblue;
+    color: black;
+    background-position: right;
+}
+
+.box12 {
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+.box12:active {
+    background-color: lightblue;
+    color: black;
+    border:1px solid lightblue
+}
+
+.box13 {
+    width: 350px;
+    height: 350px;
+    background-image: url(https://dohanews.co/wp-content/uploads/2022/09/visit-qatar-ggB-yB154qM-unsplash-scaled.jpg);
+    background-size: cover;
+    border: 3px solid red;
+    margin-top: 10px;
+}
+
+
+.box15 {
+    background-color: lightcoral;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid lightcoral;
+}
+
+.box15:hover {
+    background-color: lightblue;
+    color: black;
+    background-position: right;
+}
+
+.box16 {
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+.box16:active {
+    background-color: lightblue;
+    color: black;
+    border:1px solid lightblue
+}
+
+
+.box17 {
+    width: 350px;
+    height: 350px;
+    background-image: url(https://ilhasmaldivas.com.br/wp-content/uploads/2021/10/Hurawalhi-5.8-Restaurant-Interior-Night-1.jpg);
+    background-size: cover;
+    border: 3px solid blue;
+    margin-top: 10px;
+}
+
+
+.box19 {
+    background-color: lightcoral;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid lightcoral;
+}
+
+.box19:hover {
+    background-color: lightblue;
+    color: black;
+    background-position: right;
+}
+
+.box20 {
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+.box20:active {
+    background-color: lightblue;
+    color: black;
+    border:1px solid lightblue
+}
+
